@@ -1,6 +1,11 @@
-html {
+* {
     background-color: black;
     font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
     font-weight: normal;
     scroll-behavior: smooth;
+    color: white;
+}
+.arrow > img {
+    height: 50px;
+    width: 50px;
 }
