@@ -9,3 +9,11 @@
     height: 50px;
     width: 50px;
 }
+.arrow {
+    display: flex;
+    justify-content: center;
+}
+.home {
+    display: flex;
+    flex-flow: row nowrap;
+}
