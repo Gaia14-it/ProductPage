@@ -22,3 +22,15 @@
     flex-direction: column;
     justify-content: center;
 }
+.images {
+    height: 100px;
+    width: auto;
+}
+.reviews {
+    display: flex;
+    flex-flow: column nowrap;
+}
+.rating > img {
+    height: 50px;
+    width: auto;
+}
