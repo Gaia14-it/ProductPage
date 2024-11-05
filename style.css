@@ -17,3 +17,8 @@
     display: flex;
     flex-flow: row nowrap;
 }
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
