@@ -22,7 +22,7 @@
     flex-direction: column;
     justify-content: center;
 }
-.images {
+.images > img {
     height: 100px;
     width: auto;
 }
