@@ -28,9 +28,17 @@
 }
 .reviews {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: row nowrap;
 }
 .rating > img {
+    height: 50px;
+    width: auto;
+}
+.amazonlink > img {
+    height: 50px;
+    width: auto;
+}
+.reviews-group > img {
     height: 50px;
     width: auto;
 }
