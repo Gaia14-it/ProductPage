@@ -23,7 +23,7 @@
     justify-content: center;
 }
 .images > img {
-    height: 100px;
+    height: 200px;
     width: auto;
 }
 .reviews {
@@ -34,11 +34,14 @@
     height: 50px;
     width: auto;
 }
-.amazonlink > img {
+.amazon-link > img {
     height: 50px;
     width: auto;
 }
-.reviews-group > img {
+.star-rating > img {
     height: 50px;
     width: auto;
+}
+.rating {
+    flex: 1 1 0;
 }
